@@ -1,6 +1,6 @@
 
 /py-env-django
 
-/FirstReactApp/emp-dept/node_modules
+/frontend/emp-dept/node_modules
 
-/DjangoAPI/media/
+/api/media/
